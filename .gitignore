@@ -1,0 +1,14 @@
+/bootstrap/compiled.php
+/vendor
+/workbench
+composer.phar
+composer.lock
+.DS_Store
+.idea
+_ide_helper.php
+
+/app/config/local
+/app/config/production
+/public/assets/cache/*.js
+/public/assets/cache/*.css
+/public/themes/ace/
